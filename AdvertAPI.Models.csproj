@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>Sambhu Paul</Authors>
+    <Company>None</Company>
+    <Product>Advert Api Microservice</Product>
+    <Description>Advert Api Microservice</Description>
+    <PackageProjectUrl>https://github.com/paulayushi/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/paulayushi/WebAdvert.AdvertApi</RepositoryUrl>
+    <PackageId>AdvertAPI.Advert_Model</PackageId>
+  </PropertyGroup>
+
+</Project>
